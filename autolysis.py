@@ -6,7 +6,7 @@
 #   "seaborn",
 #   "matplotlib",
 #   "argparse",
-#   "dotenv",
+#   "python-dotenv",
 # ///
 
 import os
